@@ -1,0 +1,7 @@
+Volume slider or at least a mute function
+
+Death animation and/or death sounds
+
+Fix bug where block slides on pipe instead of dying immediately
+
+Organize files

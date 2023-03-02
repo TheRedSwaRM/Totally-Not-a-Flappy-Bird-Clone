@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Mystical Pixels - Chiptune8-bit - Royalty Free Music.mp3-60988710ae08c3be7986fcbfd4519a28.mp3str"
+
+[deps]
+
+source_file="res://Mystical Pixels - Chiptune8-bit - Royalty Free Music.mp3"
+dest_files=[ "res://.import/Mystical Pixels - Chiptune8-bit - Royalty Free Music.mp3-60988710ae08c3be7986fcbfd4519a28.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
